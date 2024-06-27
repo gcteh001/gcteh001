@@ -21,11 +21,61 @@ I am currently focused on developing expertise in IT security with institute tra
 </div>
 
 ## Certifications
-<div>
+
+<table border="1">
+  <tr>
+    <th>Certification</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td><div>
 <img src="https://img.shields.io/badge/-Certified_for_Cybersecurity-00AAFF?&style=for-the-badge&logo=ISC2&logoColor=white" />
-</div>
+</div></td>
+    <td>Obtained in 2023</td>
+  <tr>
+    <td><div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div></td>
+    <td>Taking Certification in July 2024</td>
+  </tr>
+</table>
+
+
 
 ## Projects
-- Pending
-
+<table border="1">
+  <tr>
+    <th>Project Name</th>
+    <th>Project Type</th>
+    <th>Project Description</th>
+  </tr>
+  <tr>
+    <td>Case Study: Tokyo Century Leasing</td>
+    <td>Logging and Monitoring Tools</td>
+    <td>- Conducted research on the ransomware attack on Tokyo Century Leasing in 2022<br />
+        - Explored the utility of SIEM for early detection and incident response. <br />
+        <br />
+        Tool Utilised: Security Onion</td>
+  </tr>
+  <tr>
+    <td>Case Study: British Airways 2018</td>
+    <td>Incident Response</td>
+    <td>- Conducted research on the incident response by British Airways for the Magecart card skimming attacks in 2018 <br />
+        - Conducted research on the entire attack flow and identified the TTPs based on Mitre ATT&CK Framework <br />
+        - Provided recommended mitigation strategies with details including personnel required, time taken, and estimated cost<br />
+        <br />
+        Tool Utilised: Mitre ATT&CK Framework
+    </td>
+  </tr>
+  <tr>
+    <td>Vulnerability Assessment & Penetration Testing 1</td>
+    <td>VAPT</td>
+    <td>- Created an agreement with the client to establish rules of engagement and scope of VAPT assessment. <br />
+        - Conducted a VA using Nessus Essentials for a streaming server, a web server and a management console. <br />
+        - Analysed the VA report based on client's context and identified 9 vulnerabilities. <br />
+        - Proceeded to obtain proofs of concept for the individual vulnerabilities. <br />
+    <br />
+    Tool Utilised: Nessus Essentials, Metasploitable</td>
+  </tr>
+</table>
 ## 
