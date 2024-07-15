@@ -36,9 +36,15 @@ I am currently focused on developing expertise in IT security with institute tra
     <td><div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div></td>
-    <td>Taking Certification in July 2024</td>
+    <td>Obtained in 2024</td>
+  </tr>
+    <td><div>
+<img src="https://img.shields.io/badge/-A%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div></td>
+    <td>Scheduled to take in 2024</td>
   </tr>
 </table>
+
 
 
 
